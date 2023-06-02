@@ -6,7 +6,7 @@ The course introduces the machine learning principles and models, including basi
 
 ## An extensive experimental setup of ML models for multivariable regression
 ### Project type: B 
-**Developed by:** [Veronica Pistolesi](github.com/VeronicaPistolesi), [Francesca Poli](github.com/francescapoli98) (lady-*de*-bugs) 🐞 \
+**Developed by:** [Veronica Pistolesi](https://github.com/VeronicaPistolesi), [Francesca Poli](https://github.com/francescapoli98) (lady-*de*-bugs) 🐞 \
 **Academic year:** 2022/23 \
 **Master degree:** Computer Science, Artificial Intelligence curriculum 
 
