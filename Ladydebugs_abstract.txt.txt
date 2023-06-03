@@ -1,0 +1,3 @@
+This project tests the effectiveness of multiple Machine Learning models and libraries on a regression task, namely: 
+Decision Tree, Extra Tree, K-Nearest Neighbors, Support Vector Machine, Random Forest, Bagging and MLP. 
+At the end, we implemented an ensemble model with the top five performing models.
