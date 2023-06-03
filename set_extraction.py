@@ -9,8 +9,7 @@ Original file is located at
 # Libraries
 """
 
-#from google.colab import drive
-#drive.mount('/content/drive')
+
 
 import numpy as np
 import pandas as pd
@@ -72,8 +71,7 @@ y_arr = y.to_numpy().astype(np.float64)
 
 x_train, x_test, y_train, y_test = train_test_split(x_arr, y_arr, test_size=0.3, random_state=42, shuffle=True)
 
-#x = x_arr
-#y = y_arr
+
 
 print("x_train ", x_train.shape)
 print("y_train ", y_train.shape)
